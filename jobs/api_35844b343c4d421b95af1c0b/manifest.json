@@ -1,0 +1,22 @@
+{
+  "job_id": "api_35844b343c4d421b95af1c0b",
+  "mode": "zip_split",
+  "file_url": "https://free-dl7.myalphadl.com/FVncEaeDhplnJEhHpB5MmA/THE.COUPLE.NEXT.DOOR.S02E04.480P.WEB.RMT.ALPHADL.MKV",
+  "suggested_filename": "THE.COUPLE.NEXT.DOOR.S02E04.480P.WEB.RMT.ALPHADL.MKV",
+  "total_size_bytes": 123313962,
+  "created_at_utc": "2026-05-23T01:55:52.043098+00:00",
+  "zip_folder": "jobs/api_35844b343c4d421b95af1c0b/zip",
+  "zip_main_file": "THE.COUPLE.NEXT.DOOR.S02E04.480P.WEB.RMT.ALPHADL_split.zip",
+  "zip_parts": [
+    {
+      "name": "THE.COUPLE.NEXT.DOOR.S02E04.480P.WEB.RMT.ALPHADL_split.z01",
+      "path": "jobs/api_35844b343c4d421b95af1c0b/zip/THE.COUPLE.NEXT.DOOR.S02E04.480P.WEB.RMT.ALPHADL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "THE.COUPLE.NEXT.DOOR.S02E04.480P.WEB.RMT.ALPHADL_split.zip",
+      "path": "jobs/api_35844b343c4d421b95af1c0b/zip/THE.COUPLE.NEXT.DOOR.S02E04.480P.WEB.RMT.ALPHADL_split.zip",
+      "size_bytes": 28942380
+    }
+  ]
+}
